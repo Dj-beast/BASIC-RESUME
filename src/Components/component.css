@@ -1,0 +1,36 @@
+.top{
+ color: black;
+ text-align: center;   
+}
+
+/* .shead{
+    color: black;
+    text-align: left;
+    margin: 5px;
+    padding: 5px;
+} */
+.stext{
+    margin-right: 1250px;
+    margin-left: 10px;
+    padding-top: 0%;
+}
+
+.etext{
+    margin-right: 1250px;
+    margin-left: 10px;
+    padding-top: 0%;
+}
+
+.extext{
+    margin-right: 1250px;
+    margin-left: 10px;
+    padding-bottom: 0;
+}
+
+
+
+.ptext{
+    margin-right: 1250px;
+    margin-left: 10px;
+    padding-top: 0%;
+}
